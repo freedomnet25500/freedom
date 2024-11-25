@@ -91,3 +91,10 @@ trojan://auto@ipinfo.in:443?security=tls&sni=freedomiran.pages.dev&fp=randomized
 trojan://auto@comicabc.com:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev
 trojan://auto@ipv4.ip.sb:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
 trojan://auto@yecaoyun.com:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@20.221.32.145:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@172.66.135.188:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@162.159.247.236:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@104.16.99.216:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@104.16.2.167:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@162.159.246.134:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
+trojan://auto@172.66.31.229:443?security=tls&sni=freedomiran.pages.dev&fp=randomized&type=ws&host=freedomiran.pages.dev&path=%2Ffreedomiran.pages.dev%2F%3Fed%3D2560#freedomiran.pages.dev%20
